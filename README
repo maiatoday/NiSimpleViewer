@@ -1,0 +1,7 @@
+This project is used to caputre a simple NITE and OpenNI project based on the sample code provided but built with a code::blocks project and not using makefiles. The intention is not to add or update the code but just to creat ea shell from which new projects can be built.
+
+It was tested using NITE 1.3.0.17 and OpenNI stable installed in the default places according to the provided scripts. It was built on 32 bit Ubuntu 10.10
+
+I have put the SampleConfig.xml file in a local directory but the path to this can be changed.
+
+Also look at the build options for the whole project and look at the libraries and ssearch directories to see where it is pulling OpenNI and NITE libs.
